@@ -1,10 +1,9 @@
 primeira linha do arquivo 01
 
-
+mod 11
 mod 12
-mod 31----
-mod 15-----
-mod 16-----
+qualquer outra coisa
+mod 16
 mod 17
 mod 18
 mod 19
